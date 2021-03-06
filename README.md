@@ -1,22 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# MORDERN WEB LANDING PAGE
 
-> One paragraph statement about the project.
+> Followed a youtube tutorial to build this project. It is responsive to mobile and tablet aswell.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML,CSS
+- BOOTSTRAP
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://tanzila-abedin.github.io/web-landing-page/.)
 
 
 To get a local copy up and running follow these simple example steps.
@@ -33,8 +29,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-
-
 ## Authors
 
 👤 **Tanzila**
@@ -42,12 +36,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@githubhandle](https://github.com/tanzila-abedin)
 - Twitter: [@twitterhandle](https://twitter.com/TanzilaAbedin)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
