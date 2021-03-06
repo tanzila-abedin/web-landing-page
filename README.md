@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# MORDERN WEB LANDING PAGE
+# MODERN WEB LANDING PAGE
 
 > Followed a youtube tutorial to build this project. It is responsive to mobile and tablet aswell.
 
